@@ -1,0 +1,40 @@
+{
+  "name": "feathers-auth",
+  "version": "0.2.0",
+  "description": "A wrapper over feathers authentication which can be directly plugged in for authentication into any feathers application with users module.",
+  "main": "lib/index",
+  "repository": {
+    "type": "git+ssh",
+    "url": "ssh://git@engr.tools.bain.com:7999/fms/feathers-auth.git"
+  },
+  "homepage": "https://engr.tools.bain.com/bitbucket/projects/Scaffolds/repos/feathers-auth",
+  "author": "Abhishek Puri <Abhishek.Puri@Bain.com>",
+  "license": "MIT",
+  "private": true,
+  "keywords": [
+    "Authentication",
+    "Feathers",
+    "Local Authentication",
+    "JWT",
+    "Token"
+  ],
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "engines": {
+    "node": "^10.0.0",
+    "yarn": ">= 0.18.0"
+  },
+  "dependencies": {
+    "@feathersjs/authentication": "^2.1.7",
+    "@feathersjs/authentication-local": "^1.2.1",
+    "@feathersjs/errors": "^3.3.0",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
