@@ -7,7 +7,7 @@ A simple feathers-authentication wrapper to perform form based authentication.
 ---
 * Setting up local authentication is as easy as configuring your feathers app with one extension.
   ```
-  $ yarn add git+ssh://git@engr.tools.bain.com:7999/fms/feathers-auth.git
+  $ yarn add git+ssh://github.com/MadanRaju/feathers_authentication.git
   ```
 
 * Then in your feathers app's `app.js` just import the `feathers-auth` module and call it with an authentication secret to encrypt JWTs with.

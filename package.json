@@ -5,9 +5,8 @@
   "main": "lib/index",
   "repository": {
     "type": "git+ssh",
-    "url": "ssh://git@engr.tools.bain.com:7999/fms/feathers-auth.git"
+    "url": "ssh://github.com/MadanRaju/feathers_authentication.git"
   },
-  "homepage": "https://engr.tools.bain.com/bitbucket/projects/Scaffolds/repos/feathers-auth",
   "author": "Madan Lokikere <madan.731993@gmail.com>",
   "license": "MIT",
   "private": true,
