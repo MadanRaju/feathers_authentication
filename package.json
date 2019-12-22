@@ -8,7 +8,7 @@
     "url": "ssh://git@engr.tools.bain.com:7999/fms/feathers-auth.git"
   },
   "homepage": "https://engr.tools.bain.com/bitbucket/projects/Scaffolds/repos/feathers-auth",
-  "author": "Abhishek Puri <Abhishek.Puri@Bain.com>",
+  "author": "Madan Lokikere <madan.731993@gmail.com>",
   "license": "MIT",
   "private": true,
   "keywords": [
