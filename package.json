@@ -29,7 +29,7 @@
     "@feathersjs/authentication": "^2.1.7",
     "@feathersjs/authentication-local": "^1.2.1",
     "@feathersjs/errors": "^3.3.0",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
